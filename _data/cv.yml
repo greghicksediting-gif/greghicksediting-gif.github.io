@@ -5,7 +5,6 @@ cv:
   location: Kingston, ON, Canada
   image: ""
   summary: Editor, medical writer, and educational specialist
-
   social_networks:
     - network: X
       username: 
@@ -47,7 +46,7 @@ cv:
           Capstone project focused on adult literacy in HIS training.
         
 
-        - institution: Algonquin College
+      - institution: Algonquin College
         location: Ottawa, Ontario
         area: Technical Writing
         studyType: Graduate Diploma
@@ -57,7 +56,7 @@ cv:
           Course-based program on principles of effective technical communication.
           Included document development placement with economics firm Limestone Analytics.
 
-        - institution: "Queen's University"
+      - institution: "Queen's University"
         location: Kingston, Ontario
         url: https://healthsci.queensu.ca/liscbchm/biochemistry
         area: Biochemistry
@@ -81,20 +80,17 @@ cv:
         highlights:
           - See my Medical Writing Profile for examples.
 
-    - company: Freelance
+      - company: Freelance
         position: Academic and Technical Editor
         location: Kingston, ON
         start_date: 2022
         end_date: present
         summary: 
           - Offers developmental, stlyistic, and copy editing services on a contractual basis. 
-          - Experienced editing for a wide range of topics including molecular biology, economics, nursing,
-mathematics, psychology, and human geography.
+          - Experienced editing for a wide range of topics including molecular biology, economics, nursing, mathematics, psychology, and human geography.
           - Employs a growth-oriented coaching style intended to help writers improve their craft.
-          highlights: 
-          - See my Editing Portfolio for testimonials and project examples.
-
-    - company: "Queen's University Student Academic Success Services"
+          
+      - company: "Queen's University Student Academic Success Services"
         position: Academic Skills and Writing Consultant
         location: Kingston, Ontario
         url: https://sass.queensu.ca/
@@ -105,10 +101,9 @@ mathematics, psychology, and human geography.
         highlights:
         - Collaboratively developed staff- and student-facing elearning modules in Articulate on topics including academic integrity, AI usage, and working with neurodivergent students.
         - Hired and managed a team of >50 student volunteers and employees. 
-        - Applied evidence-based learning strategies principles with a focus on student
-metacognition, problem solving, and goal setting.
-     
-    - company: Reverba
+        - Applied evidence-based learning strategies principles with a focus on student metacognition, problem solving, and goal setting.
+
+      - company: Reverba
         position: Medical Writer
         location: Toronto, ON (remote)
         url: https://reverba.com/
@@ -118,7 +113,7 @@ metacognition, problem solving, and goal setting.
           - Saw multiple medical affairs projects through from conceptualization, Veeva PromoMats approval workflows, and eentual distribution.
           - Independently authored National Advisory Board reports.
           
-  - company: Lumeo Health Information System
+      - company: Lumeo Health Information System
         position: Principle Trainer and Instructional Designer
         location: Kingston, ON
         url: https://www.lumeorhis.ca/
@@ -129,7 +124,7 @@ metacognition, problem solving, and goal setting.
           - Provided at-the-elbow support during a successful regionwide go-live.
           - Developed documentation and LMS management for hundreds of customized workflow documents and job aids. 
       
-    - company: Canadian Cancer Trials Group
+      - company: Canadian Cancer Trials Group
         position: Clinical Trials Auditor
         location: Kingston, ON
         start_date: 2018
@@ -139,7 +134,7 @@ metacognition, problem solving, and goal setting.
         - Developed internal reporting processes for international centre and vendor compliance. 
         - Performed systematic quality assurance of EMR data and trial master files for complicance with trial protocol, ICH-GCP, and Div 5 regulations. 
 
-    - company: "Queen's University"
+      - company: "Queen's University"
         position: Teaching Assistant
         location: Kingston, ON
         start_date: 2014
@@ -156,7 +151,6 @@ metacognition, problem solving, and goal setting.
         highlights: 
         - Completed proof-of-concept projects for using short hydrocarbon and lipid biomarkers in uranium exploration.
 
-
     Volunteer:
       - company: "Queen's Swing Dance Club"
         position: Dance Instrution Coordinator
@@ -168,7 +162,7 @@ metacognition, problem solving, and goal setting.
           - Developed organizational guidance docs, including a customizeable teaching guide shared with other dance organizations.
           - Facilitated training for new instructors.
 
-        - company: Friendship Park Community Garden
+      - company: Friendship Park Community Garden
         position: Garden Coordinator
         location: Kingston, ON
         start_date: 2021
@@ -193,9 +187,8 @@ metacognition, problem solving, and goal setting.
         summary: "Awarded to fund a geomicrobiology project with the Queen's Department of Geography."
 
     Publications:
-      - title: Structure-Dependent Modulation of Substrate Binding and
-Biodegradation Activity of Pirin Proteins toward Plant Flavonols.
-        authors:
+       - title: Structure-Dependent Modulation of Substrate Binding and Biodegradation Activity of Pirin Proteins toward Plant Flavonols.
+         authors:
           - Bin Guo
           - Yichen Zhang
           - Greg Hicks
@@ -203,54 +196,53 @@ Biodegradation Activity of Pirin Proteins toward Plant Flavonols.
           - Ronfeng Li
           - Natalie Roy
           - Zongchao Jia
-        publisher: ACS Chemical Biology
-        releaseDate: 2019-10-23
-        url: https://pubs.acs.org/doi/10.1021/acschembio.9b00575
-        summary: Primary protein characerization study.
+         publisher: ACS Chemical Biology
+         releaseDate: 2019-10-23
+         url: https://pubs.acs.org/doi/10.1021/acschembio.9b00575
+         summary: Primary protein characerization study.
 
-      - title: Structural Basis for the Lipopolysaccharide Export Activity of the Bacterial
-Lipopolysaccharide Transport System
-        authors:
+       - title: Structural Basis for the Lipopolysaccharide Export Activity of the Bacterial Lipopolysaccharide Transport System
+         authors:
           - Greg Hicks
           - Zongchao Jia
-        publisher: International Journal of Molecular Science
-        releaseDate: 2018-09-10
-        url: https://www.mdpi.com/1422-0067/19/9/2680Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: Review article.
+         publisher: International Journal of Molecular Science
+         releaseDate: 2018-09-10
+         url: https://www.mdpi.com/1422-0067/19/9/2680Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+         summary: Review article.
 
-      - title: Structural and Functional Characterization of the Human Tribbles Homologue 2 Pseudokinase
-        authors:
+       - title: Structural and Functional Characterization of the Human Tribbles Homologue 2 Pseudokinase
+         authors:
           - Greg Hicks
-        publisher: "Queen's University School of Graduation and Professional Studies"
-        releaseDate: 2016-10-27
-        url: http://hdl.handle.net/1974/15206
-        summary: MSc. graduate thesis.
+         publisher: "Queen's University School of Graduation and Professional Studies"
+         releaseDate: 2016-10-27
+         url: http://hdl.handle.net/1974/15206
+         summary: MSc. graduate thesis.
 
     Skills:
-      - name: Editing
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "APA, AMA, CMOS, copyediting, developmental editing, stylistic editing, medical editing"
+        - name: Editing
+          level: Master
+          icon: fa-solid fa-hashtag
+          keywords: "APA, AMA, CMOS, copyediting, developmental editing, stylistic editing, medical editing"
 
-      - name: Medical Writing
-        level: Expert
-        icon: fa-solid fa-hashtag
-        keywords: "Publication development, editing, instructional design, advisory boards"
+        - name: Medical Writing
+          level: Expert
+          icon: fa-solid fa-hashtag
+          keywords: "Publication development, editing, instructional design, advisory boards"
 
-      - name: Knowledge Management
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Confluence, DITA, documentation control, document audits"
+        - name: Knowledge Management
+          level: Master
+          icon: fa-solid fa-hashtag
+          keywords: "Confluence, DITA, documentation control, document audits"
 
-      - name: Clinical Trials Operations
-        level: Expert
-        icon: fa-solid fa-hashtag
-        keywords: "quality assurance, GCP compliance, investigations, audit, EMR review"
+        - name: Clinical Trials Operations
+          level: Expert
+          icon: fa-solid fa-hashtag
+          keywords: "quality assurance, GCP compliance, investigations, audit, EMR review"
 
-      - name: Learning strategies consulting
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "coaching, workshops, metacognition, tutoring"
+        - name: Learning strategies consulting
+          level: Master
+          icon: fa-solid fa-hashtag
+          keywords: "coaching, workshops, metacognition, tutoring"
 
     Languages:
       - name: English
@@ -266,7 +258,7 @@ Lipopolysaccharide Transport System
       - name: Visual rhetoric in technical communications
         icon: fa-solid fa-tag
 
-      - - name: Individual instruction
+      - name: Individual instruction
         icon: fa-solid fa-tag
 
 
