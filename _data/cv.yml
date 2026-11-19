@@ -8,7 +8,7 @@ cv:
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: 
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -35,10 +35,10 @@ cv:
         highlights:
           Research-based program specializing in protein structure and function characterisation.
 
-      - institution: Queen's University
+      - institution: "Queen's University"
         location: Kingston, Ontario
         area: Education
-        studyType: Professional Master's of Education
+        studyType: "Professional Master's of Education"
         start_date: 2022
         end_date: 2024
         courses: Knowledge Translation and Mobilization, Literacy Developent, Effective Intervention, Program Evaluation
@@ -57,7 +57,7 @@ cv:
           Course-based program on principles of effective technical communication.
           Included document development placement with economics firm Limestone Analytics.
 
-        - institution: Queen's University
+        - institution: "Queen's University"
         location: Kingston, Ontario
         url: https://healthsci.queensu.ca/liscbchm/biochemistry
         area: Biochemistry
@@ -67,7 +67,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          Dean's Honour List, with Distinction.
+          "Dean's Honour List, with Distinction."
           
 
     Experience:
@@ -75,7 +75,7 @@ cv:
         position: Medical Writer
         location: Kingston, ON
         start_date: 2026
-        end_date: Ongoing
+        end_date: present
         summary: 
           - Offers medical writing services including instructional design, publication development, and advisory meeting reports on a contractual basis.
         highlights:
@@ -85,7 +85,7 @@ cv:
         position: Academic and Technical Editor
         location: Kingston, ON
         start_date: 2022
-        end_date: Ongoing
+        end_date: present
         summary: 
           - Offers developmental, stlyistic, and copy editing services on a contractual basis. 
           - Experienced editing for a wide range of topics including molecular biology, economics, nursing,
@@ -94,12 +94,12 @@ mathematics, psychology, and human geography.
           highlights: 
           - See my Editing Portfolio for testimonials and project examples.
 
-    - company: Queen's University Student Academic Success Services
+    - company: "Queen's University Student Academic Success Services"
         position: Academic Skills and Writing Consultant
         location: Kingston, Ontario
         url: https://sass.queensu.ca/
         start_date: 2016
-        end_date: Ongoing
+        end_date: present
         summary: 
         - Provided individualised support to post-secondary students across degree levels and disciplines.
         highlights:
@@ -139,7 +139,7 @@ metacognition, problem solving, and goal setting.
         - Developed internal reporting processes for international centre and vendor compliance. 
         - Performed systematic quality assurance of EMR data and trial master files for complicance with trial protocol, ICH-GCP, and Div 5 regulations. 
 
-    - company: Queen's University
+    - company: "Queen's University"
         position: Teaching Assistant
         location: Kingston, ON
         start_date: 2014
@@ -147,7 +147,7 @@ metacognition, problem solving, and goal setting.
         summary: Teaching assistant for a combination of in-class, online, and laboratory undergraduate course.
         courses: BCHM102, BCHM270, BCHM317, LISC300, WRIT120, APSC100
 
-      - company: Queen's Facility for Isotope Research
+      - company: "Queen's Facility for Isotope Research"
         position: Research Assistant
         location: Kingston, ON
         start_date: 2012
@@ -158,11 +158,11 @@ metacognition, problem solving, and goal setting.
 
 
     Volunteer:
-      - company: Queen's Swing Dance Club
+      - company: "Queen's Swing Dance Club"
         position: Dance Instrution Coordinator
         location: Kingston, ON
         start_date: 2016
-        end_date: Ongoing
+        end_date: present
         summary: Taught swing dances to diverse audiences with a not-for-profit community organization.
         highlights:
           - Developed organizational guidance docs, including a customizeable teaching guide shared with other dance organizations.
@@ -172,7 +172,7 @@ metacognition, problem solving, and goal setting.
         position: Garden Coordinator
         location: Kingston, ON
         start_date: 2021
-        end_date: Ongoing
+        end_date: present
         summary: Manages an 18-plot individual allotment garden.
 
     Awards:
@@ -184,13 +184,13 @@ metacognition, problem solving, and goal setting.
 
       - title: Dr. Jeremy Nesheim Memorial Award in Biochemistry
         date: 2013-09-01
-        awarder: Queen's University DBMS
-        summary: Awarded on the basis of academic achievement to students entering a Master's or Phd. program at Queen's in biochemistry.
+        awarder: "Queen's University DBMS"
+        summary: "Awarded on the basis of academic achievement to students entering a Master's or Phd. program at Queen's in biochemistry."
 
       - title: Undergraduate Summer Research Award
         date: 2013-05-01
         awarder: NSERC
-        summary: Awarded to fund a geomicrobiology project with the Queen's Department of Geography.
+        summary: "Awarded to fund a geomicrobiology project with the Queen's Department of Geography."
 
     Publications:
       - title: Structure-Dependent Modulation of Substrate Binding and
@@ -221,7 +221,7 @@ Lipopolysaccharide Transport System
       - title: Structural and Functional Characterization of the Human Tribbles Homologue 2 Pseudokinase
         authors:
           - Greg Hicks
-        publisher: Queen's University School of Graduation and Professional Studies
+        publisher: "Queen's University School of Graduation and Professional Studies"
         releaseDate: 2016-10-27
         url: http://hdl.handle.net/1974/15206
         summary: MSc. graduate thesis.
@@ -273,5 +273,5 @@ Lipopolysaccharide Transport System
     Certificates:
       - name: University Teaching and Learning Foundations
         date: 2015-06-15
-        issuer: Queen's University Centre for Teaching and Learning
+        issuer: "Queen's University Centre for Teaching and Learning"
         icon: fa-solid fa-location-dot
