@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Greg Hicks
+  label: Documentation Specialist
+  email: greg.hicks.freelance@outlook.com
+  location: Kingston, ON, Canada
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Editor, medical writer, and educational specialist
 
   social_networks:
     - network: X
@@ -15,175 +15,263 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Kingston
+    region: Ontario
+    postalCode: K7K 1S1
+    countryCode: CA
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Queen's University
+        location: Kingston, Ontario
+        url: https://dbms.queensu.ca/graduate/programs/msc-and-phd
+        area: Biochemistry
+        studyType: MSc
+        start_date: 2013
+        end_date: 2016
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          Research-based program specializing in protein structure and function characterisation.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Queen's University
+        location: Kingston, Ontario
+        area: Education
+        studyType: Professional Master's of Education
+        start_date: 2022
+        end_date: 2024
+        courses: Knowledge Translation and Mobilization, Literacy Developent, Effective Intervention, Program Evaluation
         highlights:
-          - Description 1.
-          - Description 2.
+          Course-based program complete concurrently with full-time employment.
+          Capstone project focused on adult literacy in HIS training.
+        
+
+        - institution: Algonquin College
+        location: Ottawa, Ontario
+        area: Technical Writing
+        studyType: Graduate Diploma
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          Course-based program on principles of effective technical communication.
+          Included document development placement with economics firm Limestone Analytics.
+
+        - institution: Queen's University
+        location: Kingston, Ontario
+        url: https://healthsci.queensu.ca/liscbchm/biochemistry
+        area: Biochemistry
+        studyType: BSC. Honours (Subject Specialization)
+        start_date: 2013
+        end_date: 2016
+        score: ""
+        courses: ""
+        highlights:
+          Dean's Honour List, with Distinction.
+          
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Freelance
+        position: Medical Writer
+        location: Kingston, ON
+        start_date: 2026
+        end_date: Ongoing
+        summary: 
+          - Offers medical writing services including instructional design, publication development, and advisory meeting reports on a contractual basis.
         highlights:
-          - Relativity
-          - Description 2.
+          - See my Medical Writing Profile for examples.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    - company: Freelance
+        position: Academic and Technical Editor
+        location: Kingston, ON
+        start_date: 2022
+        end_date: Ongoing
+        summary: 
+          - Offers developmental, stlyistic, and copy editing services on a contractual basis. 
+          - Experienced editing for a wide range of topics including molecular biology, economics, nursing,
+mathematics, psychology, and human geography.
+          - Employs a growth-oriented coaching style intended to help writers improve their craft.
+          highlights: 
+          - See my Editing Portfolio for testimonials and project examples.
+
+    - company: Queen's University Student Academic Success Services
+        position: Academic Skills and Writing Consultant
+        location: Kingston, Ontario
+        url: https://sass.queensu.ca/
+        start_date: 2016
+        end_date: Ongoing
+        summary: 
+        - Provided individualised support to post-secondary students across degree levels and disciplines.
         highlights:
-          - Description 1.
-          - Description 2.
+        - Collaboratively developed staff- and student-facing elearning modules in Articulate on topics including academic integrity, AI usage, and working with neurodivergent students.
+        - Hired and managed a team of >50 student volunteers and employees. 
+        - Applied evidence-based learning strategies principles with a focus on student
+metacognition, problem solving, and goal setting.
+     
+    - company: Reverba
+        position: Medical Writer
+        location: Toronto, ON (remote)
+        url: https://reverba.com/
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - Saw multiple medical affairs projects through from conceptualization, Veeva PromoMats approval workflows, and eentual distribution.
+          - Independently authored National Advisory Board reports.
+          
+  - company: Lumeo Health Information System
+        position: Principle Trainer and Instructional Designer
+        location: Kingston, ON
+        url: https://www.lumeorhis.ca/
+        start_date: 2024
+        end_date: 2025
+        summary: Term contract as a trainer and instructional designer for a new regional EMR system spanning six hospitals.
+        highlights:
+          - Provided at-the-elbow support during a successful regionwide go-live.
+          - Developed documentation and LMS management for hundreds of customized workflow documents and job aids. 
+      
+    - company: Canadian Cancer Trials Group
+        position: Clinical Trials Auditor
+        location: Kingston, ON
+        start_date: 2018
+        end_date: 2022
+        summary: Conducted remote and onsite audits for complex, multicentre oncology trials.
+        highlights: 
+        - Developed internal reporting processes for international centre and vendor compliance. 
+        - Performed systematic quality assurance of EMR data and trial master files for complicance with trial protocol, ICH-GCP, and Div 5 regulations. 
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    - company: Queen's University
+        position: Teaching Assistant
+        location: Kingston, ON
+        start_date: 2014
+        end_date: 2018
+        summary: Teaching assistant for a combination of in-class, online, and laboratory undergraduate course.
+        courses: BCHM102, BCHM270, BCHM317, LISC300, WRIT120, APSC100
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Queen's Facility for Isotope Research
+        position: Research Assistant
+        location: Kingston, ON
+        start_date: 2012
+        end_date: 2013
+        summary: Contributed to sample preparation, commercial analysis, and general lab operations while also pursuing independent biogeochemistry projects.
+        highlights: 
+        - Completed proof-of-concept projects for using short hydrocarbon and lipid biomarkers in uranium exploration.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Queen's Swing Dance Club
+        position: Dance Instrution Coordinator
+        location: Kingston, ON
+        start_date: 2016
+        end_date: Ongoing
+        summary: Taught swing dances to diverse audiences with a not-for-profit community organization.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed organizational guidance docs, including a customizeable teaching guide shared with other dance organizations.
+          - Facilitated training for new instructors.
+
+        - company: Friendship Park Community Garden
+        position: Garden Coordinator
+        location: Kingston, ON
+        start_date: 2021
+        end_date: Ongoing
+        summary: Manages an 18-plot individual allotment garden.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Queen Elizabeth II Graduate Scholarship in Science and Technology
+        date: 2013-05-01
+        awarder: OSAP
+        url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html
+        summary: Merit based scholarship for full-time graduate students in science or technology.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Dr. Jeremy Nesheim Memorial Award in Biochemistry
+        date: 2013-09-01
+        awarder: Queen's University DBMS
+        summary: Awarded on the basis of academic achievement to students entering a Master's or Phd. program at Queen's in biochemistry.
+
+      - title: Undergraduate Summer Research Award
+        date: 2013-05-01
+        awarder: NSERC
+        summary: Awarded to fund a geomicrobiology project with the Queen's Department of Geography.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Structure-Dependent Modulation of Substrate Binding and
+Biodegradation Activity of Pirin Proteins toward Plant Flavonols.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Bin Guo
+          - Yichen Zhang
+          - Greg Hicks
+          - Xinron Huang
+          - Ronfeng Li
+          - Natalie Roy
+          - Zongchao Jia
+        publisher: ACS Chemical Biology
+        releaseDate: 2019-10-23
+        url: https://pubs.acs.org/doi/10.1021/acschembio.9b00575
+        summary: Primary protein characerization study.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Structural Basis for the Lipopolysaccharide Export Activity of the Bacterial
+Lipopolysaccharide Transport System
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Greg Hicks
+          - Zongchao Jia
+        publisher: International Journal of Molecular Science
+        releaseDate: 2018-09-10
+        url: https://www.mdpi.com/1422-0067/19/9/2680Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: Review article.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Structural and Functional Characterization of the Human Tribbles Homologue 2 Pseudokinase
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Greg Hicks
+        publisher: Queen's University School of Graduation and Professional Studies
+        releaseDate: 2016-10-27
+        url: http://hdl.handle.net/1974/15206
+        summary: MSc. graduate thesis.
 
     Skills:
-      - name: Physics
+      - name: Editing
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "APA, AMA, CMOS, copyediting, developmental editing, stylistic editing, medical editing"
+
+      - name: Medical Writing
+        level: Expert
+        icon: fa-solid fa-hashtag
+        keywords: "Publication development, editing, instructional design, advisory boards"
+
+      - name: Knowledge Management
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Confluence, DITA, documentation control, document audits"
+
+      - name: Clinical Trials Operations
+        level: Expert
+        icon: fa-solid fa-hashtag
+        keywords: "quality assurance, GCP compliance, investigations, audit, EMR review"
+
+      - name: Learning strategies consulting
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "coaching, workshops, metacognition, tutoring"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: French
+        summary: "Basic"
 
     Interests:
-      - name: Physics
+      - name: Adult literacy
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+      - name: Visual rhetoric in technical communications
+        icon: fa-solid fa-tag
+
+      - - name: Individual instruction
+        icon: fa-solid fa-tag
+
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: University Teaching and Learning Foundations
+        date: 2015-06-15
+        issuer: Queen's University Centre for Teaching and Learning
         icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
