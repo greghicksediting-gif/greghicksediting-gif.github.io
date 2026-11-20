@@ -6,18 +6,12 @@ cv:
   image: ""
   summary: Editor, medical writer, and educational specialist
   social_networks:
-    - network: X
-      username: 
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: greghicks72
 
   address:
-    street: 
     city: Kingston
     region: Ontario
-    postalCode: K7K 1S1
     countryCode: CA
 
   sections:
