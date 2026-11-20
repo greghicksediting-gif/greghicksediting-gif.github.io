@@ -251,11 +251,6 @@ exclude:
   - gems/
   - migrations/
   - vendor
-  - _news/announcement_*.md
-  - _pages/blog.md
-  - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -361,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hicks]
+  first_name: [Greg]
 
   style: apa
   locale: en
