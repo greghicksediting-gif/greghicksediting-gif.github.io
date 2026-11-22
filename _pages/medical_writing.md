@@ -3,8 +3,10 @@ layout: page
 title: medical
 description: this is what advanced image components could look like
 tags: formatting images
+permalink: /medical_writing/
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+nav: true
+nav_order: 3
 images:
   slider: true
 ---
