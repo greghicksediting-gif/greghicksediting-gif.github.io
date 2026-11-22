@@ -5,6 +5,8 @@ permalink: /medical_writing/
 description: Medical writing work samples
 nav: true
 nav_order: 3
+images:
+  slider: true
 ---
 
 This is an example post with advanced image components.
