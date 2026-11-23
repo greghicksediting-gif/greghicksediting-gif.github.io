@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: medical writing portfolio
 description: 
 tags: portfolio medical_writing
