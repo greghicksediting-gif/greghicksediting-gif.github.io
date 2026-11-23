@@ -12,22 +12,20 @@ toc:
   sidebar: left
 ---
 ## Presentations
-<table>
-<tbody>
-<tr>
-<td>### <a href="assets/pdf/GH_SamplePres_A.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial</td>
-<td>### <a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial</td>
-</tr>
-<tr>
-<td><swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell">### <a href="assets/pdf/GH_SamplePres_A.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide3.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide4.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide5.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide6.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container></td>
-<td>### <a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial
+</swiper-container></div>
+<div class="divTableCell">### <a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -37,10 +35,9 @@ toc:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide6.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide7.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide8.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container></td>
-</tr>
-</tbody>
-</table>
-
+</swiper-container></div>
+</div>
+</div>
+</div>
 
 ## Articles
