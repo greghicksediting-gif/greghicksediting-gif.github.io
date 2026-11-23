@@ -22,6 +22,7 @@ toc:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide5.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide6.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+
 ### <a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
