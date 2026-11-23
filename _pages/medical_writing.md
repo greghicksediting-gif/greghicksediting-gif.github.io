@@ -1,6 +1,6 @@
 ---
 layout: page
-title: medical writing portfolio
+title: medical writing
 description: 
 tags: portfolio medical_writing
 nav: true
