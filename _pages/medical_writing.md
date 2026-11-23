@@ -1,16 +1,17 @@
 ---
 layout: pages
-title: SURMOUNT Trial - Short Clinical Trial Presentation
+title: medical writing portfolio
 description: 
 tags: portfolio medical_writing
-category: work
+nav: true
+nav_order: 3
+permalink: /medical_writing/
 images:
   slider: true
 toc:
   sidebar: left
 ---
 ## Presentations
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
 <i align="left" class="fa-solid fa-file-pdf" href="assets/pdf/GH_SamplePres_A.pdf"></i>
 ###SURMOUNT Trial
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
