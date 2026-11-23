@@ -3,7 +3,6 @@ layout: project
 title: SURMOUNT Trial - Short Clinical Trial Presentation
 description: 
 tags: portfolio medical_writing
-permalink: /medical_writing/
 category: work
 images:
   slider: true
