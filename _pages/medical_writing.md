@@ -12,8 +12,19 @@ toc:
   sidebar: left
 ---
 
-I am a freelance medical writer based in Kingston, Ontario. 
+I am a freelance medical writer based in Kingston, Ontario. I have done work for global pharmaceutical brands in agency settings, as well as national research organizations. 
+I specialize in clinical trial operations, instructional design, and medical affairs deliverables.
 
+My clinical areas of interest include:
+<ul>
+  <li>Phase II and III oncology trials</li>
+  <li>Opthalmic care</li>
+  <li>Structurally-targeted drug development</li>
+  <li>Health information system implementation and training</li>
+</ul>
+...but my favourite part of this job is getting to learn in-depth about lots of different therapeutic areas!
+
+Read on for details about my service offerings and samples of my work.
 
 <section>
 <h1>Services</h1>
@@ -21,7 +32,6 @@ I am a freelance medical writer based in Kingston, Ontario.
 <li>Authoring and editing of medical communications for scientific, medical, and general audiences.</li>
 <li>Available for long- and short-term project support.</li>
 <li>Flexible rates starting at $40 CAD per hour.</li>
-
 </section>
 
 <section>
