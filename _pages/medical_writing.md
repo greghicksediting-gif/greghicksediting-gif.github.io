@@ -24,17 +24,14 @@ My clinical areas of interest include:
 </ul>
 ...but my favourite part of this job is getting to learn in-depth about lots of different therapeutic areas!
 
-Read on for details about my service offerings and samples of my work.
+Read on for details about my service offerings and work samples.
 
-<section>
 <h1>Services</h1>
 <ul>
 <li>Authoring and editing of medical communications for scientific, medical, and general audiences.</li>
 <li>Available for long- and short-term project support.</li>
 <li>Flexible rates starting at $40 CAD per hour.</li>
-</section>
 
-<section>
 <h1>Portfolio</h1>
 <h2>Articles</h2>
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
@@ -76,6 +73,4 @@ Read on for details about my service offerings and samples of my work.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide7.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide8.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-</section>
-
 
