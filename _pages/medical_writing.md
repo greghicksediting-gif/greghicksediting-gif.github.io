@@ -38,10 +38,10 @@ toc:
 ## Articles
 
 <swiper-container slides-per-view="1.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
- <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
+ <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" style="height:50%; width:auto" %}
  <a href="assets/pdf/articles/2018 Hicks Scientific Review Publication Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i>View full document</a> 
  </swiper-slide>
-   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" %}
+   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" style="height:50%; width:auto" %}
  <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i>View full document</a> 
  </swiper-slide>
 </swiper-container>
