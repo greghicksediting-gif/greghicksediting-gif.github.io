@@ -38,24 +38,10 @@ toc:
 ## Articles
 
 <swiper-container slides-per-view="1.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
- <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
- <p class="slide-caption">Here's some text below the image?</p>
+ <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
+ <a href="assets/pdf/articles/2018 Hicks Scientific Review Publication Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i>View full document</a> 
  </swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>
-    <table>
-<tbody>
-<tr>
-<td>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide3.JPG" class="img-fluid rounded z-depth-1" %}</td>
-<td><p>Can I arrange it left to right?</p></td>
-</tr>
-</tbody>
-</table>
-    
-  </swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide4.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide5.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide6.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide7.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide8.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" %}
+ <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i>View full document</a> 
+ </swiper-slide>
 </swiper-container>
