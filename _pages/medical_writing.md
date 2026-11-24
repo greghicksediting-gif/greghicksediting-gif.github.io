@@ -1,6 +1,6 @@
 ---
 layout: page
-title: medical writing
+title: Medical Writing
 description: 
 tags: portfolio medical_writing
 nav: true
@@ -12,8 +12,14 @@ toc:
   sidebar: left
 ---
 
+
+
+
 <section>
 <h1>Services</h1>
+- Authoring and editing of medical communications for scientific, medical, and general audiences.
+- Available for long- and short-term project support.
+- Flexible rates starting at $40 CAD per hour.
 
 </section>
 
@@ -37,9 +43,9 @@ toc:
  <a href="assets/pdf/articles/GH Job Aid Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
 </swiper-container>
-
+<p></p>
 <h2>Presentations</h2>
-
+<br></br>
 <div class="row">
   <div class="col-md-6">
 <h3><a href="assets/pdf/GH_SamplePres_A.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial</h3>
@@ -53,6 +59,7 @@ toc:
 </swiper-container>
   </div>
 <div class="col-md-6">
+<p></p>
 <h3><a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial</h3>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 740px; max-width: 100%; height: 360px; margin: 0 auto;">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
