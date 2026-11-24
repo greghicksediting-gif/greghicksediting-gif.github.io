@@ -37,11 +37,11 @@ toc:
 
 ## Articles
 
-<swiper-container slides-per-view="1.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" height="480px" width="360px">
+<swiper-container slides-per-view="1.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" style="width: 360px; max-width: 100%; height: 480px; margin: 0 auto;">
  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/2018 Hicks Scientific Review Publication Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" height="480px" width="360px" ></i>View full document</a> 
+ <a href="assets/pdf/articles/2018 Hicks Scientific Review Publication Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf" height="480px" width="360px"></i>View full document</a> 
+ <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
 </swiper-container>
