@@ -37,7 +37,7 @@ toc:
 
 ## Articles
 
-<swiper-container slidesPerView=1.1 centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container slides-per-view="1.1" centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide3.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
