@@ -20,7 +20,7 @@ toc:
  <a href="assets/pdf/articles/2018 Hicks Scientific Review Publication Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
+ <a href="assets/pdf/articles/2019 Guo Zhang Hicks et al Primary Research Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> </swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide3.JPG" class="img-fluid rounded z-depth-1" %}
  <a href="assets/pdf/articles/GH PopSci Article Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
