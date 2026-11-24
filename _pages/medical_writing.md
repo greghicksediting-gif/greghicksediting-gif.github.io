@@ -12,8 +12,14 @@ toc:
   sidebar: left
 ---
 
+<section>
+<h1>Services</h1>
 
-## Articles
+</section>
+
+<section>
+<h1>Portfolio</h1>
+<h2>Articles</h2>
 
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
@@ -32,11 +38,11 @@ toc:
  </swiper-slide>
 </swiper-container>
 
-## Presentations
+<h2>Presentations</h2>
 
 <div class="row">
   <div class="col-md-6">
-### <a href="assets/pdf/GH_SamplePres_A.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial
+<h3><a href="assets/pdf/GH_SamplePres_A.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial</h3>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 740px; max-width: 100%; height: 360px; margin: 0 auto;">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -47,7 +53,7 @@ toc:
 </swiper-container>
   </div>
 <div class="col-md-6">
-### <a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial
+<h3><a href="assets/pdf/GH_SamplePres_B.pdf"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial</h3>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 740px; max-width: 100%; height: 360px; margin: 0 auto;">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -60,5 +66,6 @@ toc:
 </swiper-container>
 </div>
 </div>
+</section>
 
 
