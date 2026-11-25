@@ -81,22 +81,22 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
-<p text-align="center">Executive Director, Cell Transplant Therapy Canada</p>
+<p text-align="center">  Executive Director, Cell Transplant Therapy Canada</p>
 <p class="testimonial_body">I work for a medical professional association and we publish the abstracts from our scientific conference each year. For the past two years, we've been fortunate to work with Greg Hicks, who has edited the abstracts for grammar, readability, formatting, and standardization, and we could not be happier with the results! Greg has a keen attention to detail and would be an asset to anyone looking to polish their scientific writing prior to submission for publication. Thanks Greg!</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. Sam Gene</p>
-<p text-align="center">Biology</p>
+<p text-align="center">  Biologist</p>
 <p class="testimonial_body">Greg’s assistance has been fantastic. He gives thorough and constructive edits that have helped improve my manuscripts. I love that he has a background in science and approaches the work with care. His feedback really helps build confidence in your writing.</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. E.P.P.</p>
-<p text-align="center">Classics</p>
+<p text-align="center">  Classics Researcher</p>
 <p class="testimonial_body">Greg produces excellent edition work with a very swift turnaround. His edits are always on point, and his comments are insightful without ever being overwhelming. He consistently improves the clarity of the text while also upgrading it with impeccable grammar and idiomatic language. Greg understands the typical issues that arise in English texts written by French native speakers particularly well. I would not hesitate to work with him again, as I fully trust him based on our previous.</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. B.L.</p>
-<p text-align="center">Social Sciences</p>
+<p text-align="center">  Social Scientist</p>
 <p class="testimonial_body">Greg provided the expertise I was looking for despite the highly technical nature of the paper, and the quality of his work exceeded expectations. He not only corrected all the errors common to non-native English speakers like me but, more importantly, my paper is now clearer and more streamlined thanks to him.</p>
 </swiper-slide>
 </swiper-container>
@@ -105,4 +105,11 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 </div>
 
 <h2>Recent Projects</h2>
-{% raw %}{% bibliography --file edited %}{% endraw %}
+(I provided editing services for the following projects, but was not responsible for the final proof or peer review process).
+
+Maier et al. Abstracts of the Cell Therapy Transplant Canada 2025 Annual Conference. Current Oncology, [Publication pending]. 
+Gene, S. et al. (2026). Outdoor mesocosm experiment provides novel insights into the relative importance of water and food as sources of microplastics to aquatic amphibians. Ecotoxicology, 35(197). 
+Auais, M. et al. (2023). GeroCast: Using podcasting to deliver living cases in gerontology education. Health Education Journal, 82(2), 129–142.  
+Bleah P. et al. (2023). ‘The solution is we need to have a centre’: a study on diabetes in Liberia. Health Promotion International, 38(5). 
+Lu, Z. et al. (2022). YdfD, a Lysis Protein of the Qin Prophage, Is a Specific Inhibitor of the IspG-Catalyzed Step in the MEP Pathway of Escherichia coli. International Journal of Molecular Sciences, 23(3), 1560. 0
+
