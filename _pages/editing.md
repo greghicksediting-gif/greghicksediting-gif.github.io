@@ -20,12 +20,12 @@ toc:
   text-align: center;
   margin-bottom: 0:}
 
-.testimonial_title {
+/*.testimonial_title {
   font-size: 8pt;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin-top: 0;}
+  margin-top: 0;}*/
 
 .testimonial_body {
   font-size: 10pt;
@@ -79,22 +79,22 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
-<p class="testiominal_title" text-align="center">Executive Director, Cell Transplant Therapy Canada</p>
+<p text-align="center">Executive Director, Cell Transplant Therapy Canada</p>
 <p class="testimonial_body">I work for a medical professional association and we publish the abstracts from our scientific conference each year. For the past two years, we've been fortunate to work with Greg Hicks, who has edited the abstracts for grammar, readability, formatting, and standardization, and we could not be happier with the results! Greg has a keen attention to detail and would be an asset to anyone looking to polish their scientific writing prior to submission for publication. Thanks Greg!</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. Sam Gene</p>
-<p class="testiominal_title" text-align="center">Biology</p>
+<p text-align="center">Biology</p>
 <p class="testimonial_body">Greg’s assistance has been fantastic. He gives thorough and constructive edits that have helped improve my manuscripts. I love that he has a background in science and approaches the work with care. His feedback really helps build confidence in your writing.</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. E.P.P.</p>
-<p class="testiominal_title" text-align="center">Classics</p>
+<p text-align="center">Classics</p>
 <p class="testimonial_body">Greg produces excellent edition work with a very swift turnaround. His edits are always on point, and his comments are insightful without ever being overwhelming. He consistently improves the clarity of the text while also upgrading it with impeccable grammar and idiomatic language. Greg understands the typical issues that arise in English texts written by French native speakers particularly well. I would not hesitate to work with him again, as I fully trust him based on our previous.</p>
 </swiper-slide>
 <swiper-slide>
 <p class="testimonial_name">Dr. B.L.</p>
-<p class="testiominal_title" text-align="center">Social Sciences</p>
+<p text-align="center">Social Sciences</p>
 <p class="testimonial_body">Greg provided the expertise I was looking for despite the highly technical nature of the paper, and the quality of his work exceeded expectations. He not only corrected all the errors common to non-native English speakers like me but, more importantly, my paper is now clearer and more streamlined thanks to him.</p>
 </swiper-slide>
 </swiper-container>
