@@ -29,6 +29,27 @@ toc:
   font-size: 10pt;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif; }
+
+.swiper-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centers vertically */
+  align-items: center;     /* Centers horizontally */
+  text-align: center;      /* Centers multi-line text */
+}
+
+.slider-wrapper {
+  position: relative;
+  padding: 0 50px; /* Creates space on the sides for the arrows */
+}
+
+.custom-prev {
+  left: 0;
+}
+
+.custom-next {
+  right: 0;
+}
 </style>
 
 
@@ -48,6 +69,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 </ul>
 
 <h1>Testimonials</h1>
+<div class="slider-wrapper">
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
@@ -70,6 +92,10 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <p class="testimonial_body">Greg provided the expertise I was looking for despite the highly technical nature of the paper, and the quality of his work exceeded expectations. He not only corrected all the errors common to non-native English speakers like me but, more importantly, my paper is now clearer and more streamlined thanks to him.</p>
 </swiper-slide>
 </swiper-container>
+  <div class="swiper-button-prev custom-prev"></div>
+  <div class="swiper-button-next custom-next"></div>
+</div>
+</div>
 
 
 <h1>Recent Projects</h1>
