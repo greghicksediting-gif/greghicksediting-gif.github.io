@@ -101,7 +101,6 @@ I will never use AI to review your work or draft my feedback. I believe writing 
   <div class="swiper-button-prev custom-prev"></div>
   <div class="swiper-button-next custom-next"></div>
 </div>
-</div>
 
 
 <h1>Recent Projects</h1>
