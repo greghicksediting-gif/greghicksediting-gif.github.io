@@ -10,6 +10,8 @@ images:
   slider: true
 toc:
   sidebar: left
+scholar:
+  bibliography_template
 ---
 <style>
 .testimonial_name {
@@ -102,6 +104,5 @@ I will never use AI to review your work or draft my feedback. I believe writing 
   <div class="swiper-button-next custom-next"></div>
 </div>
 
-
 <h2>Recent Projects</h2>
-{% bibliography --file edited %}
+{% raw %}{% bibliography --file edited %}{% endraw %}
