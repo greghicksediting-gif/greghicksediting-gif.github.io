@@ -59,22 +59,22 @@ margin-left: auto;
 </style>
 
 
-<h1>About me</h1>
+<h2>About me</h2>
 I'm an academic and technical editor that can offer fast turnaround with in-depth feedback. I specialize in education, biomedical sciences, and clinical studies, but I have edited successful publications across an eclectic range of topics: from Assyriology to computational mathematics, with several places in-between!
 
 I specialize in academic and nonfiction writing, but am available for fiction and memoir projects if requested.
 
-<h2>Guaranteed human</h2> 
+<h3>Guaranteed human</h3> 
 I will never use AI to review your work or draft my feedback. I believe writing to be a fundamentally human act, and my approach to editing should respect that in turn. 
 
-<h1>Services</h1>
+<h2>Services</h2>
 <ul>
 <li>Proofreading for APA, AMA, CMOS, and JAMA, as well as other styles on request</li>
 <li>Developmental, style, and copy editing for any topic</li>
 <li>Flexible hourly or fix-rate pricing based on needs</li>
 </ul>
 
-<h1>Testimonials</h1>
+<h2>Testimonials</h2>
 <div class="slider-wrapper">
 <swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
 <swiper-slide>
@@ -103,4 +103,4 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 </div>
 
 
-<h1>Recent Projects</h1>
+<h2>Recent Projects</h2>
