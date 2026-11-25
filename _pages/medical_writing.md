@@ -37,18 +37,18 @@ Read on for details about my service offerings and work samples.
 <h2>Articles</h2>
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/2018%20Hicks%20Scientific%20Review%20Publication%20Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
+ <a href="Article_1.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide2.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/2019%20Guo%20Zhang%20Hicks%20et%20al%20Primary%20Research%20Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> </swiper-slide>
+ <a href="assets/pdf/articles/Article_2"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> </swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide3.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/GH%20PopSci%20Article%20Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
+ <a href="Article_3.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide4.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/V-Pronto%20White%20Paper.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
+ <a href="assets/pdf/articles/Article_4.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide5.JPG" class="img-fluid rounded z-depth-1" %}
- <a href="assets/pdf/articles/GH%20Job%20Aid%20Sample.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
+ <a href="assets/pdf/articles/Article_5.pdf"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
  </swiper-slide>
 </swiper-container>
 <p></p>
