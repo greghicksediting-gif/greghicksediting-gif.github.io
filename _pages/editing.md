@@ -17,13 +17,15 @@ toc:
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
-  text-align: center;}
+  text-align: center;
+  margin-bottom: 0:}
 
-.testimonial_tile {
+.testimonial_title {
   font-size: 8pt;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;}
+  text-align: center;
+  margin-top: 0;}
 
 .testimonial_body {
   font-size: 10pt;
@@ -70,7 +72,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 
 <h1>Testimonials</h1>
 <div class="slider-wrapper">
-<swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
+<swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
 <p class="testiominal_title" text-align="center">Executive Director, Cell Transplant Therapy Canada</p>
