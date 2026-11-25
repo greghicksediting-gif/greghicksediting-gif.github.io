@@ -32,7 +32,7 @@ Read on for details about my service offerings and work samples.
 <li>Available for long- and short-term project support.</li>
 <li>Flexible rates starting at $40 CAD per hour.</li>
 
-<div align="left">
+<div class="clearfix"></div>
 <h1>Portfolio</h1>
 <h2>Articles</h2>
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
