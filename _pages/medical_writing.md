@@ -12,6 +12,11 @@ toc:
   sidebar: left
 ---
 
+<style>
+  .swiper-pagination-bullets {
+    display: none;
+}</style>
+
 I am a freelance medical writer based in Kingston, Ontario. I have done work for global pharmaceutical brands in agency settings, as well as national research organizations. 
 I specialize in clinical trial operations, instructional design, and medical affairs deliverables.
 
