@@ -45,6 +45,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <li>Proofreading for APA, AMA, CMOS, and JAMA, as well as other styles on request</li>
 <li>Developmental, style, and copy editing for any topic</li>
 <li>Flexible hourly or fix-rate pricing based on needs</li>
+</ul>
 
 <h1>Testimonials</h1>
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
