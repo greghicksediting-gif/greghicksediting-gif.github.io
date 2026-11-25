@@ -76,7 +76,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 
 <h1>Testimonials</h1>
 <div class="slider-wrapper">
-<swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
+<swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
 <p text-align="center">Executive Director, Cell Transplant Therapy Canada</p>
