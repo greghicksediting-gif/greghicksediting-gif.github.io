@@ -58,7 +58,9 @@ Read on for details about my service offerings and work samples.
 </swiper-container>
 <p></p>
 <h2>Presentations</h2>
-<h3><a href="{{'assets/pdf/GH_SamplePres_A.pdf'| relative_url}}"><i align="left" class="fa-solid fa-file-pdf" ></i></a> GLP1-RA clinical trial</h3>
+{% tabs Presentations %}
+
+{% tab Presentations GLP1RA-Trial %}
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 740px; max-width: 100%; height: 360px; margin: 0 auto;">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -67,8 +69,11 @@ Read on for details about my service offerings and work samples.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide5.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/surmount/Surmount_Slide6.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-<p></p>
-<h3><a href="{{'assets/pdf/GH_SamplePres_B.pdf' | relative_url}}"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial</h3>
+<a href="{{'assets/pdf/GH_SamplePres_A.pdf'| relative_url}}"><i align="left" class="fa-solid fa-file-pdf" ></i></a> View full
+
+{% endtab %}
+
+{% tab Presentations Oncology-Trial %}
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 740px; max-width: 100%; height: 360px; margin: 0 auto;">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide1.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide2.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -79,3 +84,10 @@ Read on for details about my service offerings and work samples.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide7.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/optimal/Slide8.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+<a href="{{'assets/pdf/GH_SamplePres_B.pdf' | relative_url}}"><i align="left" class="fa-solid fa-file-pdf" ></i></a> Oncology clinical trial
+
+{% endtab %}
+
+{% endtabs %}
+
+
