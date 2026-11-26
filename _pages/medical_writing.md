@@ -10,6 +10,7 @@ images:
   slider: true
 toc:
   sidebar: left
+tabs: true
 ---
 
 <style>
