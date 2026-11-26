@@ -51,12 +51,11 @@ margin-left: auto;
       padding-right: 2em;
    }
 
-.custom-prev {
-  left: 0;
-}
-
-.custom-next {
-  right: 0;
+.slider-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
 }
 </style>
 
@@ -78,7 +77,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 
 <h2>Testimonials</h2>
 <div class="slider-wrapper">
-<swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" spaceBetween="20">
+<swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" space-Between="20" navigation-prev-el=".slider-prev" navigation-next-el="slider-next">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
 <p text-align="center">  Executive Director, Cell Transplant Therapy Canada</p>
@@ -100,8 +99,10 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <p class="testimonial_body">Greg provided the expertise I was looking for despite the highly technical nature of the paper, and the quality of his work exceeded expectations. He not only corrected all the errors common to non-native English speakers like me but, more importantly, my paper is now clearer and more streamlined thanks to him.</p>
 </swiper-slide>
 </swiper-container>
-  <div class="swiper-button-prev custom-prev"></div>
-  <div class="swiper-button-next custom-next"></div>
+<div class="slider-controls">
+    <button type="button" class="slider-prev" aria-label="Previous">‹</button>
+    <button type="button" class="slider-next" aria-label="Next">›</button>
+</div>
 </div>
 
 <h2>Recent Projects</h2>
