@@ -1,1 +1,12 @@
+---
+---
+@import "variables";
+@import "themes";
+@import "layout";
+@import "base";
+@import "custom";
 
+.section-heading { /*extra formatting for section headings, level agnostic*/
+  border-bottom: 2px solid #ccc; /* Thickness, style, and color */
+    padding-bottom: 8px;           /* Space between text and the line */
+    margin-bottom: 20px;}           /* Space below the line */
