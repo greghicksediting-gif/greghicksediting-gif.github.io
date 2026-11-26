@@ -62,22 +62,19 @@ margin-left: auto;
 </style>
 
 
-<h2>About me</h2>
+<h2 class="section-heading">About me</h2>
 I'm an academic and technical editor that can offer fast turnaround with in-depth feedback. I specialize in education, biomedical sciences, and clinical studies, but I have edited successful publications across an eclectic range of topics: from Assyriology to computational mathematics, with several places in-between!
 
 I specialize in academic and nonfiction writing, but am available for fiction and memoir projects if requested.
 
-<h3>Guaranteed human</h3> 
-I will never use AI to review your work or draft my feedback. I believe writing to be a fundamentally human act, and my approach to editing should respect that in turn. 
-
-<h2>Services</h2>
+<h2 class="section-heading">Services</h2>
 <ul>
 <li>Proofreading for APA, AMA, CMOS, and JAMA, as well as other styles on request</li>
 <li>Developmental, style, and copy editing for any topic</li>
 <li>Flexible hourly or fix-rate pricing based on needs</li>
 </ul>
 
-<h2>Testimonials</h2>
+<h2 class="section-heading">Testimonials</h2>
 <div class="slider-wrapper">
 <swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" space-Between="20" navigation-prev-el=".slider-prev" 
   navigation-next-el=".slider-next">
@@ -108,7 +105,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 </div>
 </div>
 
-<h2>Recent Projects</h2>
+<h2 class="section-heading">Recent Projects</h2>
 (I provided editing services for the following projects, but was not responsible for the final proof or peer review process).
 <ul>
 <li>Maier et al. Abstracts of the Cell Therapy Transplant Canada 2025 Annual Conference. Current Oncology, [Publication pending]. </li>
