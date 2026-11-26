@@ -31,15 +31,15 @@ My clinical areas of interest include:
 
 Read on for details about my service offerings and work samples.
 
-<h1>Services</h1>
+<h2>Services</h2>
 <ul>
 <li>Authoring and editing of medical communications for scientific, medical, and general audiences.</li>
 <li>Available for long- and short-term project support.</li>
 <li>Flexible rates starting at $40 CAD per hour.</li>
 </ul>
 
-<h1>Portfolio</h1>
-<h2>Articles</h2>
+<h2>Portfolio</h2>
+<h3>Articles</h3>
 <swiper-container slides-per-view="3.1" centeredSlides="true" keyboard="true" space-between="10" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true">
  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/article_thumbnails/Slide1.JPG" class="img-fluid rounded z-depth-1" %}
  <a href="{{'/assets/pdf/articles/Article_1.pdf' | relative_url}}"><i align="left" class="fa-solid fa-file-pdf"></i>View full document</a> 
@@ -57,7 +57,7 @@ Read on for details about my service offerings and work samples.
  </swiper-slide>
 </swiper-container>
 <p></p>
-<h2>Presentations</h2>
+<h3>Presentations</h3>
 {% tabs Presentations %}
 
 {% tab Presentations GLP1RA-Trial %}
