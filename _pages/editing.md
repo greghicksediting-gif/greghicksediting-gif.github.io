@@ -62,7 +62,6 @@ margin-left: auto;
 </style>
 
 
-<h2 class="section-heading">About me</h2>
 I'm an academic and technical editor that can offer fast turnaround with in-depth feedback. I specialize in education, biomedical sciences, and clinical studies, but I have edited successful publications across an eclectic range of topics: from Assyriology to computational mathematics, with several places in-between!
 
 I specialize in academic and nonfiction writing, but am available for fiction and memoir projects if requested.
