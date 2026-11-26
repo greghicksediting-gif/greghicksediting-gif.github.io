@@ -83,7 +83,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
   navigation-next-el=".slider-next">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
-<p>  Executive Director, Cell Transplant Therapy Canada</p>
+<p href="https://www.cttcanada.org/">  CTTC Director</p>
 <p class="testimonial_body">I work for a medical professional association and we publish the abstracts from our scientific conference each year. For the past two years, we've been fortunate to work with Greg Hicks, who has edited the abstracts for grammar, readability, formatting, and standardization, and we could not be happier with the results! Greg has a keen attention to detail and would be an asset to anyone looking to polish their scientific writing prior to submission for publication. Thanks Greg!</p>
 </swiper-slide>
 <swiper-slide>
