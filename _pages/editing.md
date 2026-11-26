@@ -22,12 +22,12 @@ scholar:
   text-align: center;
   margin-bottom: 0:}
 
-/*.testimonial_title {
+.testimonial_title {
   font-size: 8pt;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin-top: 0;}*/
+  margin-top: 0;}
 
 .testimonial_body {
   font-size: 10pt;
