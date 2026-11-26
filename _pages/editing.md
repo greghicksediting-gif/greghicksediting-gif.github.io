@@ -110,10 +110,10 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 
 <h2>Recent Projects</h2>
 (I provided editing services for the following projects, but was not responsible for the final proof or peer review process).
-
-Maier et al. Abstracts of the Cell Therapy Transplant Canada 2025 Annual Conference. Current Oncology, [Publication pending]. 
-Gene, S. et al. (2026). Outdoor mesocosm experiment provides novel insights into the relative importance of water and food as sources of microplastics to aquatic amphibians. Ecotoxicology, 35(197). 
-Auais, M. et al. (2023). GeroCast: Using podcasting to deliver living cases in gerontology education. Health Education Journal, 82(2), 129–142.  
-Bleah P. et al. (2023). ‘The solution is we need to have a centre’: a study on diabetes in Liberia. Health Promotion International, 38(5). 
-Lu, Z. et al. (2022). YdfD, a Lysis Protein of the Qin Prophage, Is a Specific Inhibitor of the IspG-Catalyzed Step in the MEP Pathway of Escherichia coli. International Journal of Molecular Sciences, 23(3), 1560. 0
-
+<ul>
+<li>Maier et al. Abstracts of the Cell Therapy Transplant Canada 2025 Annual Conference. Current Oncology, [Publication pending]. </li>
+<li>Gene, S. et al. (2026). Outdoor mesocosm experiment provides novel insights into the relative importance of water and food as sources of microplastics to aquatic amphibians. Ecotoxicology, 35(197). </li>
+<li>Auais, M. et al. (2023). GeroCast: Using podcasting to deliver living cases in gerontology education. Health Education Journal, 82(2), 129–142.</li> 
+<li>Bleah P. et al. (2023). ‘The solution is we need to have a centre’: a study on diabetes in Liberia. Health Promotion International, 38(5).</li>
+<li>Lu, Z. et al. (2022). YdfD, a Lysis Protein of the Qin Prophage, Is a Specific Inhibitor of the IspG-Catalyzed Step in the MEP Pathway of Escherichia coli. International Journal of Molecular Sciences, 23(3), 1560.</li>
+</ul>
