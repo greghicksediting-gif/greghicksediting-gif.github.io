@@ -58,6 +58,7 @@ margin-left: auto;
   gap: 0.75rem;
   margin-top: 1rem;
 }
+
 </style>
 
 
@@ -78,7 +79,8 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 
 <h2>Testimonials</h2>
 <div class="slider-wrapper">
-<swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" space-Between="20" navigation-prev-el=".slider-prev" navigation-next-el="slider-next">
+<swiper-container slides-per-view="2.2" centeredSlides="true" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" space-Between="20" navigation-prev-el=".slider-prev" 
+  navigation-next-el="slider-next">
 <swiper-slide>
 <p class="testimonial_name">Dr. Stephanie Maier</p>
 <p text-align="center">  Executive Director, Cell Transplant Therapy Canada</p>
