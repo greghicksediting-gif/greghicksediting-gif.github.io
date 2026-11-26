@@ -19,20 +19,21 @@ scholar:
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
-  text-align: center;
+  text-align: left;
   margin-bottom: 0:}
 
 .testimonial_title {
   font-size: 8pt;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
+  text-align: left;
   margin-top: 0;}
 
 .testimonial_body {
   font-size: 10pt;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 16pt}
 
 .swiper-slide {
   display: flex;
@@ -89,7 +90,7 @@ I will never use AI to review your work or draft my feedback. I believe writing 
 <p class="testimonial_body">Greg’s assistance has been fantastic. He gives thorough and constructive edits that have helped improve my manuscripts. I love that he has a background in science and approaches the work with care. His feedback really helps build confidence in your writing.</p>
 </swiper-slide>
 <swiper-slide>
-<p class="testimonial_name">Dr. E.P.P.</p>
+<p class="testimonial_name">Dr. E.P.P., Classics </p>
 <p text-align="center">  Classics Researcher</p>
 <p class="testimonial_body">Greg produces excellent edition work with a very swift turnaround. His edits are always on point, and his comments are insightful without ever being overwhelming. He consistently improves the clarity of the text while also upgrading it with impeccable grammar and idiomatic language. Greg understands the typical issues that arise in English texts written by French native speakers particularly well. I would not hesitate to work with him again, as I fully trust him based on our previous.</p>
 </swiper-slide>
